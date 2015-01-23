@@ -69,7 +69,7 @@ public class MyServer {
  }
 }
 ```
-Try later the client using it's IP andn 8888 port:
+Try later the client using it's IP and 8888 port:
 ![alt text](https://github.com/kriminal666/SocketClientExample/blob/master/1.png)
 # Try using netcat :
 ```
@@ -85,5 +85,5 @@ Create a new server:
  # nc -l -p PUT_HERE_YOUR_PORT
 ```
 And test the client using your server IP and Port.
-![alt text]((https://github.com/kriminal666/SocketClientExample/blob/master/2.png)
+![alt text](https://github.com/kriminal666/SocketClientExample/blob/master/2.png)
 
